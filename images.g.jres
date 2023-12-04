@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAD/DwB/DwAA8DPzAH/3AADwMzMP8PcAAAA/Mw8A/wAA8DMzDwAAAADwMzN/d3cAAPAzMw8AAAAAAD8zDwD/AADwMzMP8PcAAPAz8wB/9wAAAP8PAH8PAAAAAAAA8AAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pink flower"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAADwAAAADwAPD/AAAAAB8PX1UPAAAAH/H///8AAADw8VVV9QAAAB//////AAAAH/HVVfUAAADw/9Vd9QAAAAAA310PAAAAAADw/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bee with sunglasses"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
